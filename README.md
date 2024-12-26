@@ -1,10 +1,10 @@
-# Story Wrapped Creator
+# Wrapped Creator
 
 A React-based web application that allows you to create your own "Wrapped" experience, similar to Spotify's year-end review. Create engaging, interactive slideshows with various types of content displays including statistics, charts, lists, and media.
 
 ## 🚀 Live Demo
 
-Check out the live demo at: [Story Wrapped Demo](https://story-wrapped.vercel.app/)
+Check out the live demo at: [Wrapped Demo](https://your-own-wrapped.netlify.app/)
 
 ## 🎯 Features
 
