@@ -404,7 +404,7 @@ const Story = () => {
     if (slide.type === 'stat' && slide.showDaysCount) {
       return {
         ...slide,
-        content: `há ${calculateDaysBetween(storyConfig.startDate, storyConfig.endDate)} dias desde <algo aqui>`,
+        content: `${calculateDaysBetween(storyConfig.startDate, storyConfig.endDate)} days since <something here>`,
         subtext: formatDate(storyConfig.startDate)
       };
     }
